@@ -17,19 +17,19 @@ function UserContainer({ userData, fetchUsers }) {
       <div>
         {userData &&
           userData.users &&
-          userData.users.map(user => <p>user.name</p>)}
+          userData.users.map(user => <p>{user.name}</p>)}
       </div>
     </div>
   );
 }
 
-const mapStateToProps = (state) => {
+const mapStateToProps = state => {
   return {
     userData: state.user,
   };
 };
 
-const mapDispatchToProps = (dispatch) => {
+const mapDispatchToProps = dispatch => {
   return {
     fetchUsers: () => dispatch(fetchUsers()),
   };
