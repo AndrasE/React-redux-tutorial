@@ -7,10 +7,10 @@
 
 ## Hey 👋
 
-Following a  <a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK" target="_blank" rel="noopener noreferrer">
-  <p> tutorial on YT</p>
-  </a> went through some of the basics to start with on Redux with React UI. 
-
+Following a tutorial on YT went through some of the basics to start with on Redux with React UI. 
+<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK" target="_blank" rel="noopener noreferrer">
+  <p> React Redux Tutorial by Codevolution</p>
+  </a>
   
 Take care, code safe! 💻
 
