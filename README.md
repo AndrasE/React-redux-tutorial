@@ -11,6 +11,7 @@ This is a follow up repo of the
 Redux Tutorial 
 </a>
 (stand-alone Redux project)
+<br>
 Included a pdf with my notes from the classes. justsomeReactRedux ✌️
 <br><br>
 Actions, Action-creators, Reducers, Store, Connect, Middlewares, React-Redux(using hooks), Combining Reducers, Redux DevTools, Payload, mapStateToProps, mapDispatchToProps, Async actions <br><br>
