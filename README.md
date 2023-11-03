@@ -33,11 +33,4 @@ Serving the app:
 ```sh
 $ npm start
 ```
-Running the tests:
-```sh
-$ npm test
-```
-Building a distribution version:
-```sh
-$ npm run build
-```
+
