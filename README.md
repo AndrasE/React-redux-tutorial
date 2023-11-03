@@ -8,9 +8,9 @@
 Following a tutorial on YT went through some of the basics to start with on Redux with React UI. <br>
 This is a follow up repo of the
 <a href="https://github.com/AndrasE/Redux-tutorial" target="_blank" rel="noopener noreferrer">
-Redux Tutorial 
+Redux Tutorial
 </a>
-(stand-alone Redux project)
+ (stand-alone Redux project)
 <br>
 Included a pdf with my notes from the classes. justsomeReactRedux ✌️
 <br><br>
