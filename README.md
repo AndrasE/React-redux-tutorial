@@ -16,7 +16,8 @@ Actions, Action-creators, Reducers, Store, Connect, Middlewares, React-Redux(usi
 <a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK" target="_blank" rel="noopener noreferrer">
 React Redux Tutorial 
 </a>
-by Codevolution <br><br>
+by Codevolution 
+
 Take care, code safe! 💻
 <br>
 
