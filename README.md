@@ -27,7 +27,7 @@ These instructions will get you a copy of the project up and running on your loc
 Start with cloning this repo on your local machine via cli or github-desktop:
 
 ```sh
-$ git clone https://github.com/AndrasE/React-redux-tutorial-demo
+$ git clone https://github.com/AndrasE/React-redux-tutorial
 $ cd PROJECTNAME
 ```
 To install and set up the library, run:
