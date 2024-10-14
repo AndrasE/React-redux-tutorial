@@ -14,8 +14,7 @@ Included a pdf with my notes from the classes. <a href="https://github.com/Andra
 <br>
 Actions, Action-creators, Reducers, Store, Connect, Middlewares, React-Redux (using hooks), Combining Reducers, Redux DevTools, Payload, mapStateToProps, mapDispatchToProps, Async actions <br><br>
 <a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK" target="_blank" rel="noopener noreferrer">
-React Redux Tutorial 
-</a> by Codevolution.
+React Redux Tutorial</a> by Codevolution.
 
 ## Run 🚀
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
